@@ -1,4 +1,4 @@
-package com.rndemo;
+package com.ldy.werty;
 
 import com.facebook.react.ReactActivity;
 
